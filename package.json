@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahadyan934/RahaDyan-bot"
+    "url": "git+https://github.com/RahaDy4n/RahaDyan-bot"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "RahaDyan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahadyan934/RahaDyan-bot/issues"
+    "url": "https://github.com/RahaDy4n/RahaDyan-bot/issues"
   },
-  "homepage": "https://github.com/rahadyan934/RahaDyan-bot#readme"
+  "homepage": "https://github.com/RahaDy4n/RahaDyan-bot#readme"
 }
