@@ -1,4 +1,4 @@
-## RahaDyan
+## RahaDy4n
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,7 +16,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/rahadyan934/RahaDyan-bot
+> git clone https://github.com/RahaDy4n/RahaDyan-bot
 > cd RahaDyan-bot
 > bash install.sh
 > node index.js
@@ -51,5 +51,5 @@ ket : ✅ : aktif
 ## THANKS TO
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-## DONASI
-* Gopay : 081271699856 Reuz
+## DO
+
